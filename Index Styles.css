@@ -1,0 +1,30 @@
+h1{
+    background-color: aquamarine;
+    color: black;
+    padding: 30px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+}
+p {
+    font-family: cursive;
+    text-align: center;
+    background-color: olivedrab;
+    font-size: 30px;
+}
+td {
+    border-spacing: 20px;
+    border: 1px solid black;
+    text-align: center;
+    font-style: white;
+}
+table {
+    border-spacing: 30px;
+}
+img:hover {
+    padding: 20px;
+    background-color: gold;
+}
+.one {
+    text-align: center;
+}
